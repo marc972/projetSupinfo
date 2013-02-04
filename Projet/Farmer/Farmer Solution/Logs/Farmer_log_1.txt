@@ -1,0 +1,192 @@
+2013-01-27 08:07:19 [com.wakanda-software.Farmer] INFO - Opening the solution
+2013-01-27 08:07:19 [com.wakanda-software.Farmer] INFO - Opening the users and groups directory
+2013-01-27 08:07:20 [com.wakanda-software.Farmer] INFO - Users and groups directory opened (duration: 309 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Opening the project
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 5 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Project opened (duration: 71 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Opening the project
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer] INFO - Solution opened (duration: 483 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer] INFO - Starting the solution
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Starting the project
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Starting the HTTP server
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - HTTP server started (duration: 37 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Project started (duration: 217 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the project
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the HTTP server
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project started (duration: 141 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Executing the bootstrap(s)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.Farmer] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-01-27 08:07:20 [com.wakanda-software.Farmer] INFO - Solution started (duration: 373 ms)
+2013-01-27 08:17:02 [com.wakanda-software.Farmer] INFO - Stopping the solution
+2013-01-27 08:17:02 [com.wakanda-software.Farmer.Farmer] INFO - Stopping the project
+2013-01-27 08:17:03 [com.wakanda-software.Farmer.Farmer] INFO - Project stopped (duration: 1103 ms)
+2013-01-27 08:17:03 [com.wakanda-software.Farmer.ServerAdmin] INFO - Stopping the project
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project stopped (duration: 2078 ms)
+2013-01-27 08:17:05 [com.wakanda-software.Farmer] INFO - Solution stopped (duration: 3183 ms)
+2013-01-27 08:17:05 [com.wakanda-software.Farmer] INFO - Closing the solution
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.Farmer] INFO - Closing the project
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 404 ms)
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.Farmer] INFO - Project closed (duration: 408 ms)
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.ServerAdmin] INFO - Closing the project
+2013-01-27 08:17:05 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-27 08:17:06 [com.wakanda-software.Farmer] INFO - Solution closed (duration: 818 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Opening the solution
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Opening the users and groups directory
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Users and groups directory opened (duration: 15 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Opening the project
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 6 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Project opened (duration: 20 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Opening the project
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Solution opened (duration: 84 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Starting the solution
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Starting the project
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Starting the HTTP server
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - HTTP server started (duration: 37 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Project started (duration: 102 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the project
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the HTTP server
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project started (duration: 96 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Executing the bootstrap(s)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.Farmer] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-01-27 08:17:11 [com.wakanda-software.Farmer] INFO - Solution started (duration: 214 ms)
+2013-01-27 10:25:19 [com.wakanda-software.Farmer] INFO - Stopping the solution
+2013-01-27 10:25:19 [com.wakanda-software.Farmer.Farmer] INFO - Stopping the project
+2013-01-27 10:25:20 [com.wakanda-software.Farmer.Farmer] INFO - Project stopped (duration: 1137 ms)
+2013-01-27 10:25:20 [com.wakanda-software.Farmer.ServerAdmin] INFO - Stopping the project
+2013-01-27 10:25:22 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project stopped (duration: 2084 ms)
+2013-01-27 10:25:22 [com.wakanda-software.Farmer] INFO - Solution stopped (duration: 3222 ms)
+2013-01-27 10:25:22 [com.wakanda-software.Farmer] INFO - Closing the solution
+2013-01-27 10:25:22 [com.wakanda-software.Farmer.Farmer] INFO - Closing the project
+2013-01-27 10:25:22 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-01-27 10:25:23 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 403 ms)
+2013-01-27 10:25:23 [com.wakanda-software.Farmer.Farmer] INFO - Project closed (duration: 405 ms)
+2013-01-27 10:25:23 [com.wakanda-software.Farmer.ServerAdmin] INFO - Closing the project
+2013-01-27 10:25:23 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project closed (duration: 1 ms)
+2013-01-27 10:25:23 [com.wakanda-software.Farmer] INFO - Solution closed (duration: 812 ms)
+2013-02-01 21:33:38 [com.wakanda-software.Farmer] INFO - Opening the solution
+2013-02-01 21:33:38 [com.wakanda-software.Farmer] INFO - Opening the users and groups directory
+2013-02-01 21:33:38 [com.wakanda-software.Farmer] INFO - Users and groups directory opened (duration: 281 ms)
+2013-02-01 21:33:38 [com.wakanda-software.Farmer.Farmer] INFO - Opening the project
+2013-02-01 21:33:38 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-01 21:33:38 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 41 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Project opened (duration: 156 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Opening the project
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project opened (duration: 17 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer] INFO - Solution opened (duration: 549 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer] INFO - Starting the solution
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Starting the project
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Starting the HTTP server
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - HTTP server started (duration: 45 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Project started (duration: 397 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the project
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the HTTP server
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - HTTP server started (duration: 47 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project started (duration: 171 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Executing the bootstrap(s)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.Farmer] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Bootstrap(s) executed (duration: 14 ms)
+2013-02-01 21:33:39 [com.wakanda-software.Farmer] INFO - Solution started (duration: 585 ms)
+2013-02-03 00:06:34 [com.wakanda-software.Farmer] INFO - Stopping the solution
+2013-02-03 00:06:34 [com.wakanda-software.Farmer.Farmer] INFO - Stopping the project
+2013-02-03 00:06:34 [com.wakanda-software.Farmer.Farmer.JS4D] ERROR - [1] ReferenceError: Can't find variable: alert, HTTP connection handler
+2013-02-03 00:06:34 [com.wakanda-software.Farmer.Farmer.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/marc/Documents/Wakanda/Farmer/Farmer/Untitled1.js, HTTP connection handler
+2013-02-03 00:06:34 [com.wakanda-software.Farmer.Farmer.JS4D] ERROR - [1] ReferenceError: Can't find variable: alert, HTTP connection handler
+2013-02-03 00:06:34 [com.wakanda-software.Farmer.Farmer.JS4D] ERROR - [2] Error evaluating javascript file:///Volumes/Macintosh HD/Users/marc/Documents/Wakanda/Farmer/Farmer/Untitled1.js, HTTP connection handler
+2013-02-03 00:06:36 [com.wakanda-software.Farmer.Farmer] INFO - Project stopped (duration: 2198 ms)
+2013-02-03 00:06:36 [com.wakanda-software.Farmer.ServerAdmin] INFO - Stopping the project
+2013-02-03 00:06:38 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project stopped (duration: 2340 ms)
+2013-02-03 00:06:38 [com.wakanda-software.Farmer] INFO - Solution stopped (duration: 4539 ms)
+2013-02-03 00:06:38 [com.wakanda-software.Farmer] INFO - Closing the solution
+2013-02-03 00:06:38 [com.wakanda-software.Farmer.Farmer] INFO - Closing the project
+2013-02-03 00:06:38 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-02-03 00:06:39 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 770 ms)
+2013-02-03 00:06:39 [com.wakanda-software.Farmer.Farmer] INFO - Project closed (duration: 861 ms)
+2013-02-03 00:06:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Closing the project
+2013-02-03 00:06:39 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project closed (duration: 65 ms)
+2013-02-03 00:06:40 [com.wakanda-software.Farmer] INFO - Solution closed (duration: 2001 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Opening the solution
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Opening the users and groups directory
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Users and groups directory opened (duration: 10 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Opening the project
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 37 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Project opened (duration: 60 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Opening the project
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Solution opened (duration: 117 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Starting the solution
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Starting the project
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Starting the HTTP server
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - HTTP server started (duration: 37 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Project started (duration: 88 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the project
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the HTTP server
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - HTTP server started (duration: 39 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project started (duration: 93 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Executing the bootstrap(s)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.Farmer] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-02-04 05:19:50 [com.wakanda-software.Farmer] INFO - Solution started (duration: 196 ms)
+2013-02-04 05:24:42 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-02-04 05:24:42 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 403 ms)
+2013-02-04 05:24:42 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-04 05:24:42 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 7 ms)
+2013-02-04 06:00:24 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-02-04 06:00:24 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 405 ms)
+2013-02-04 06:00:24 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-04 06:00:24 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 7 ms)
+2013-02-04 08:29:50 [com.wakanda-software.Farmer] INFO - Stopping the solution
+2013-02-04 08:29:50 [com.wakanda-software.Farmer.Farmer] INFO - Stopping the project
+2013-02-04 08:29:52 [com.wakanda-software.Farmer.Farmer] INFO - Project stopped (duration: 2097 ms)
+2013-02-04 08:29:52 [com.wakanda-software.Farmer.ServerAdmin] INFO - Stopping the project
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project stopped (duration: 2110 ms)
+2013-02-04 08:29:54 [com.wakanda-software.Farmer] INFO - Solution stopped (duration: 4208 ms)
+2013-02-04 08:29:54 [com.wakanda-software.Farmer] INFO - Closing the solution
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.Farmer] INFO - Closing the project
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 406 ms)
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.Farmer] INFO - Project closed (duration: 452 ms)
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.ServerAdmin] INFO - Closing the project
+2013-02-04 08:29:54 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project closed (duration: 2 ms)
+2013-02-04 08:29:55 [com.wakanda-software.Farmer] INFO - Solution closed (duration: 873 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer] INFO - Opening the solution
+2013-02-04 09:11:58 [com.wakanda-software.Farmer] INFO - Opening the users and groups directory
+2013-02-04 09:11:58 [com.wakanda-software.Farmer] INFO - Users and groups directory opened (duration: 256 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.Farmer] INFO - Opening the project
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 37 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.Farmer] INFO - Project opened (duration: 123 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.ServerAdmin] INFO - Opening the project
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer] INFO - Solution opened (duration: 461 ms)
+2013-02-04 09:11:58 [com.wakanda-software.Farmer] INFO - Starting the solution
+2013-02-04 09:11:58 [com.wakanda-software.Farmer.Farmer] INFO - Starting the project
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.Farmer] INFO - Starting the HTTP server
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.Farmer] INFO - HTTP server started (duration: 43 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.Farmer] INFO - Project started (duration: 248 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the project
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - Starting the HTTP server
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - HTTP server started (duration: 40 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - Project started (duration: 146 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.Farmer] INFO - Executing the bootstrap(s)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.Farmer] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer.ServerAdmin] INFO - Bootstrap(s) executed (duration: 12 ms)
+2013-02-04 09:11:59 [com.wakanda-software.Farmer] INFO - Solution started (duration: 410 ms)
+2013-02-04 10:23:44 [com.wakanda-software.Farmer.Farmer] INFO - Closing the database
+2013-02-04 10:23:44 [com.wakanda-software.Farmer.Farmer] INFO - Database closed (duration: 202 ms)
+2013-02-04 10:23:44 [com.wakanda-software.Farmer.Farmer] INFO - Opening the database
+2013-02-04 10:23:44 [com.wakanda-software.Farmer.Farmer] INFO - Database opened (duration: 7 ms)
